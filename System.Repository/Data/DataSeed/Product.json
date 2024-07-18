@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "Apple",
+    "Price": 1.00,
+    "Stock": 100
+  },
+  {
+    "Name": "Banana",
+    "Price": 0.50,
+    "Stock": 150
+  },
+  {
+    "Name": "Orange",
+    "Price": 1.20,
+    "Stock": 80
+  },
+  {
+    "Name": "Strawberry",
+    "Price": 3.00,
+    "Stock": 60
+  },
+  {
+    "Name": "Blueberry",
+    "Price": 4.00,
+    "Stock": 50
+  },
+  {
+    "Name": "Grapes",
+    "Price": 2.50,
+    "Stock": 70
+  },
+  {
+    "Name": "Mango",
+    "Price": 2.00,
+    "Stock": 40
+  },
+  {
+    "Name": "Pineapple",
+    "Price": 3.50,
+    "Stock": 30
+  },
+  {
+    "Name": "Watermelon",
+    "Price": 5.00,
+    "Stock": 20
+  },
+  {
+    "Name": "Tomato",
+    "Price": 1.50,
+    "Stock": 90
+  },
+  {
+    "Name": "Carrot",
+    "Price": 1.00,
+    "Stock": 120
+  },
+  {
+    "Name": "Broccoli",
+    "Price": 2.00,
+    "Stock": 60
+  },
+  {
+    "Name": "Lettuce",
+    "Price": 1.50,
+    "Stock": 100
+  },
+  {
+    "Name": "Spinach",
+    "Price": 2.50,
+    "Stock": 70
+  },
+  {
+    "Name": "Potato",
+    "Price": 0.80,
+    "Stock": 200
+  },
+  {
+    "Name": "Onion",
+    "Price": 0.70,
+    "Stock": 150
+  },
+  {
+    "Name": "Garlic",
+    "Price": 1.00,
+    "Stock": 90
+  },
+  {
+    "Name": "Chicken Breast",
+    "Price": 5.00,
+    "Stock": 50
+  },
+  {
+    "Name": "Beef Steak",
+    "Price": 10.00,
+    "Stock": 40
+  },
+  {
+    "Name": "Salmon",
+    "Price": 12.00,
+    "Stock": 30
+  }
+]
